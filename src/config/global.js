@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'El desempeño ambiental es un proceso que permite realizar las actividades de los programas para el mejoramiento de las condiciones ambientales de una organización, y el desarrollo y ejecución de los objetivos y actividades para evaluar las variables de impacto ambiental.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
