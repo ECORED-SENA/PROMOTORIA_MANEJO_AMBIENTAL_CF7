@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
-        span 3
-      h1 Responsabilidad social
+        span 6
+      h1 Gestión documental
 
 
 

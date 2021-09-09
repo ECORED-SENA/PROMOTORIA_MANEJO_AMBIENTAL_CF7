@@ -4,13 +4,21 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
-        span 3
-      h1 Responsabilidad social
+        span 4
+      h1 Sistemas de gestión
 
 
 
+    #t_4_1.titulo-segundo
+      h2 4.1. Aplicación
 
 
+    #t_4_2.titulo-segundo
+      h2 4.2. Técnicas de medición
+
+
+    #t_4_3.titulo-segundo
+      h2 4.3. Indicadores ambientales
 
 
 
