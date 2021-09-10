@@ -26,16 +26,64 @@
       .col-lg-10
         p.mb-0  Como se ha visto hasta el momento, el plan de acción es una herramienta muy utilizada y, por lo tanto, existen diversas aplicaciones y sistemas que permiten conocer la trazabilidad de los procesos y desarrollar así los principios de la organización y tener una responsabilidad compartida. A continuación, se podrán conocer algunos de ellos:
 
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .tarjeta--container.row.mb-5(data-aos="slide-right")
+          .col-md.c1.p-5
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img.nW(src='@/assets/curso/t5-ic2.svg', alt='icono decorativo')
+              
+            .h1.text-center Todoist
+            p.text-center Es posible registrar equipos y tareas en un calendario que organiza actividades, indica quién es responsable de completarlas y permite la inclusión de archivos adjuntos que son cruciales para la consecución de un plan de acción.
 
+          .col-md.tarjeta.c2.p-5(data-aos="slide-left")
+            .row.justify-content-center.mb-4
+              .col-6
+                figure
+                  img.nW(src='@/assets/curso/t5-ic3.svg', alt='icono decorativo')
+              
+            .h1.text-center Trello
+            p Permite determinar si cada paso de la actividad se ha completado, crear alarmas sobre el enfoque de una fecha límite, así como diferentes clasificaciones para las tareas. Permite que se puedan crear listas y planes de acción para ser administrado de manera organizada y eficiente.
+    
+    p.mb-5(data-aos="fade-up")  La planificación de la acción es el primer momento del plan, es determinar todas las acciones requeridas para la ejecución del proyecto. Por lo tanto, si el objetivo es potenciarlo, el requisito básico de la encuesta es enumerar las necesidades, como:
 
+    .row.justify-content-center.mb-5
+      .col-lg-3
+        figure(data-aos="flip-left")
+          img.nW(src='@/assets/curso/t5-i2.jpg', alt='icono decorativo')
+      .col-lg-5
+        ol.lista-ol--cuadro.lista-ol--separador
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 La formación de equipos.
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 El reclutamiento.
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 El intercambio de maquinaria.
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 Elaborar un buen plan de contenidos para la correcta aplicación.
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 La organización de campañas.
+          li 
+            .lista-ol--cuadro__vineta
+              i.fas.fa-check
+            p.mb-0 Así como otros cambios involucrados.
 
-
-
-
-
-
-
-
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4
+          p.mb-0  La estructura de un plan de acción abarca los ítems descritos anteriormente, su aplicación depende de las categorías de la empresa, y lo importante al momento de realizarlo es tener claros los objetivos y ser preciso para lograrlos.
 
 
 
