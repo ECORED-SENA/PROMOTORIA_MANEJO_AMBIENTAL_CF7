@@ -15,8 +15,24 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t5-i1.jpg', alt='operario de construccion revisando una tablet pc')
 
+    .row.mb-3.justify-content-center
+      .col-lg-6
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/t5-i2.svg', alt='operario de construccion revisando una tablet pc')
 
+    .row.mb-5
+      .col-lg-2
+        //-- Aqui vienen los objetivos estratégicos
 
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .tarjeta.color-acento-botones.p-4
+          .row
+            .col-lg-1
+              figure(data-aos="flip-up")
+                img.nW(src='@/assets/curso/t5-ico1.svg', alt='icono decorativo')
+            .col-lg-11
+              p.mb-0  La implementación de los objetivos del desarrollo sostenible permitirá el mejoramiento de la calidad de vida del planeta y el equilibrio en la utilización de los recursos, dejándole a las generaciones futuras un ambiente sano, mediante alianzas y transformaciones sociales. 
 
 
 
