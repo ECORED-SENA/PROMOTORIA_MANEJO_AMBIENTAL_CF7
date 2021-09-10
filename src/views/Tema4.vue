@@ -37,8 +37,39 @@
     #t_4_2.titulo-segundo
       h2 4.2. Técnicas de medición
     p.mb-5  Las técnicas de medición permiten determinar el tiempo que debería tardar un colaborador al interior de una empresa para realizar cualquier trabajo bajo condiciones normales. Para medir el impacto ambiental, se utilizan cuatro técnicas:
-    //-- Aqui venen los hover cards
+    .row.mb-2.justify-content-center
+      .col-lg-4
+        .nav-holder.align-items-center
+          img(src="@/assets/curso/t4-i1.jpg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Programas de monitoreo ambiental
+              p Definen las condiciones ambientales que contaminan y permiten tomar medidas de mitigación para solucionar daños en los seres vivos.
 
+      .col-lg-4
+        .nav-holder.align-items-center
+          img(src="@/assets/curso/t4-i2.jpg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Análisis de riesgos
+              p Identifica las causas que representan los daños causados por los impactos negativos a la salud y al medio ambiente.
+
+    .row.mb-5.justify-content-center
+      .col-lg-4
+        .nav-holder.align-items-center
+          img(src="@/assets/curso/t4-i3.jpg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Planes de mitigación, compensación y recomposición
+              p Identifican desde un comienzo los riesgos del proyecto en los lugares afectados, disminuyen su capacidad de productividad en los componentes ambientales y hacen parte de la planeación y de las soluciones en los puntos afectados.
+
+      .col-lg-4
+        .nav-holder.align-items-center
+          img(src="@/assets/curso/t4-i4.jpg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Planes de contingencia
+              p Sirven de apoyo a los análisis de riesgo, ayudan a mejorar las situaciones en caso de una urgencia ambiental, y así mejorar el daño en el momento en que se presente.
 
 
 
