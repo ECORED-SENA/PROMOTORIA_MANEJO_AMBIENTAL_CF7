@@ -20,7 +20,7 @@
 
 
     #t_4_1.titulo-segundo
-      h2 4.1. Aplicación
+      h2 4.1. Aplicación del sistema de gestión
     .row.mb-5
       .col-lg-3
         figure(data-aos="flip-left")

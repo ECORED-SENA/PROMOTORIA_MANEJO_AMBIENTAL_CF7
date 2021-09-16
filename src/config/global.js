@@ -50,7 +50,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Aplicación',
+            titulo: 'Aplicación del sistema de gestión',
             hash: 't_4_1',
           },
           {
