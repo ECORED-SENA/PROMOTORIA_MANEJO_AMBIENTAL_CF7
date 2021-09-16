@@ -9,7 +9,6 @@
 
     .row.mb-5.slideInUp
       .col-lg-7
-        p.mb-3.text-bold Es el desarrollo organizado de la gestión y supervisión, que se lleva a cabo en una empresa para verificar que se cumplan sus objetivos y alcances de manera correcta, optimizando los recursos empleados. 
         p.mb-3  Son el conjunto de normas que guardan los documentos de la información de la empresa, con todo lo referente al funcionamiento, con una correcta planeación y organización durante la existencia de ella. La estructura de la gestión documental es la forma como se organiza y planifica la información de una empresa, para conservar su información durante su vida útil y así poder llevar a cabo todas sus actividades de manera correcta, con la finalidad de cumplir su objetivo. 
       .col-lg-5
         figure
@@ -22,7 +21,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t6-i2.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En la gestión documental, es muy importante el almacenamiento de la información, porque permite tener un control de la información de manera protegida, para que los documentos conserven su estado de forma correcta, con el propósito de tener acceso en el momento que se necesite.
+            p.mb-0.text-bold En la gestión documental, es muy importante el almacenamiento de la información, porque permite tener un control de la información de manera protegida, para que los documentos conserven su estado de forma correcta, con el propósito de tener acceso en el momento que se necesite.
 
     .row.mb-5
       .col-lg-9

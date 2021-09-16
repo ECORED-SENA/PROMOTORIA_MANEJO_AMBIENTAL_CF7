@@ -24,7 +24,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t5-ic1.svg', alt='icono decorativo')
       .col-lg-10
-        p.mb-0  Como se ha visto hasta el momento, el plan de acción es una herramienta muy utilizada y, por lo tanto, existen diversas aplicaciones y sistemas que permiten conocer la trazabilidad de los procesos y desarrollar así los principios de la organización y tener una responsabilidad compartida. A continuación, se podrán conocer algunos de ellos:
+        p.mb-0  <b>Como se ha visto hasta el momento, el plan de acción es</b> una herramienta muy utilizada y, por lo tanto, existen diversas aplicaciones y sistemas que permiten conocer la trazabilidad de los procesos y desarrollar así los principios de la organización y tener una responsabilidad compartida. A continuación, se podrán conocer algunos de ellos:
 
     .row.mb-5.justify-content-center
       .col-lg-10

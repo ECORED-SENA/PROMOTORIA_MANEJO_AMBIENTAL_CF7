@@ -37,7 +37,7 @@
             p Incluye los cinco métodos que se acaban de mencionar. Como esta es un poco más compleja, requiere un análisis detallado.  
           .tarjeta.color-acento-botones.shadow-box.p-3(x="92%" y="76%")
             .h5.mb-2 Evaluación sistematizada
-            p Evalúa al trabajador mediante el uso de un software. Esto es un poco intrusivo, por ello se debe contar con la autorización del trabajador.            
+            p Evalúa al trabajador mediante el uso de un <i>software</i>. Esto es un poco intrusivo, por ello se debe contar con la autorización del trabajador.            
 
     .row.mb-5
       .col-lg-7

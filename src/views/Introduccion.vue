@@ -34,7 +34,7 @@
               figure
                 img.nW(src='@/assets/curso/t0-i2.svg' alt='Icono decorativo')
             .col-lg-11
-              p.mb-0  Para la elaboración de este componente, se abordaron varios autores conocidos en desempeño ambiental, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de la promotoría y el manejo ambiental.
+              p.mb-0  Para la elaboración de este componente, se abordaron varios autores conocidos en <b>desempeño ambiental</b>, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de <b>la promotoría y el manejo ambiental.</b>
 
 
 

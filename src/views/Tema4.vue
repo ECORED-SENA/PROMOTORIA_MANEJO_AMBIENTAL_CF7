@@ -98,7 +98,7 @@
       .col-lg-4
         figure(data-aos="flip-left")
           img.nW(src='@/assets/curso/t4-i5.jpg' alt='operario supervisando con su tablet una planta de produccion de hidrocarburos')
-
+    p.mb-5  Con la implantación de los sistemas de gestión ambiental, se logra un alto rendimiento en el desempeño ambiental de las organizaciones, evitando impactos adversos al ambiente, lo que ayuda al rendimiento productivo de sus actividades en cumplimento de su objetivo de responsabilidad sostenible.
 
 
 
