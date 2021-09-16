@@ -201,7 +201,7 @@ export default {
       texto:
         'Objetivo del desarrollo sostenible: Naciones Unidas. (s. f.). Objetivos de desarrollo sostenible',
       tipo: 'Artículo',
-      linnk:
+      link:
         'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
     },
   ],
