@@ -119,47 +119,32 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Aguirre, M. (s. f.). <i>Los sistemas de indicadores ambientales y su papel en la información e integración del medio ambiente.</i> I Congreso de Ingeniería Civil, Territorio y Medio Ambiente.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.ingenieroambiental.com/2060/sistemas%20de%20indicadores%20ambientales.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'ICONTEC. (2015). <i>Sistemas de Gestión Ambiental. Requisitos con orientación para su uso</i> (Norma ISO 14001:2015).',
+      link: 'https://www.nueva-iso-14001.com/pdfs/FDIS-14001.pdf',
+    },
+    {
+      referencia:
+        'Massolo, L. (2015). <i>Introducción a las herramientas de gestión ambiental.</i> Editorial de la Universidad de La Plata.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://sedici.unlp.edu.ar/bitstream/handle/10915/46750/Documento_completo__.pdf?sequence=1',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Naciones Unidas. (1992). <i>Declaración de Río sobre el Medio Ambiente y el Desarrollo.</i>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.un.org/spanish/esa/sustdev/agenda21/riodeclaration.htm',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Santana, C. y Aguilera, R. (2017). Fundamentos de la Gestión Ambiental. Universidad ECOTEC.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.academia.edu/40800127/FUNDAMENTOS_DE_LA_GESTI%C3%93N_AMBIENTAL._AUTORES',
     },
   ],
   glosario: [
