@@ -164,96 +164,60 @@ export default {
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Desarrollo sostenible',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'consumo equilibrado de los recursos naturales, que su explotación no compromete los recursos de las generaciones futuras.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Gestión documental',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'conjunto de normas que guardan los documentos de la información de la empresa, con todo lo referente al funcionamiento.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Impactos ambientales',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'son las amenazas o cambios que sufre en su calidad el ambiente por malas acciones en el proceso de ejecución.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Objetivo del desarrollo sostenible',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'su principal objetivo es cambiar las desigualdades en el mundo, erradicando la pobreza y mejorando las condiciones de vida de los seres humanos.',
     },
     {
-      termino: 'Moda',
+      termino: 'Programas ambientales:',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'son las acciones que se desarrollan para mitigar, prevenir y controlar los diferentes impactos ambientales causados por actividades negativas en un proyecto, obra o actividad de una organización. ',
     },
     {
-      termino: 'DIseño',
+      termino: 'Procedimiento:',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'es el conjunto de acciones que buscan un mismo resultado en el desarrollo de sus actividades.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Plan de acción',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'es un instrumento de carácter voluntario, dirigido a empresas u organizaciones que quieren alcanzar un alto rendimiento y nivel de protección del medio ambiente, en el marco del desarrollo sostenible.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Sistemas de gestión ambiental',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'se refiere a la capacidad de satisfacer las necesidades presentes sin comprometer las necesidades de las futuras generaciones, garantizando el equilibrio entre el crecimiento económico, el cuidado del ambiente y el bienestar social.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Programas ambientales: Universidad popular de Cesar. (s. f.). <i>Sistema Integrado de Gestión Institucional - SIGI.</i> ',
+      tipo: 'Documento',
+      link:
+        'https://sites.google.com/site/sigiunicesar/home/siga/programas-ambientales',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Objetivo del desarrollo sostenible: Naciones Unidas. (s. f.). Objetivos de desarrollo sostenible',
+      tipo: 'Artículo',
+      linnk:
+        'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
     },
   ],
   creditos: {
