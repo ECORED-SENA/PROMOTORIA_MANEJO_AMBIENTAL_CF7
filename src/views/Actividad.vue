@@ -10,11 +10,12 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica: Emparejamiento entre término y definición
+          h2 Emparejamiento entre término y definición
         p.mb-4 Afianzar algunos de los conceptos más importantes en el seguimiento de un sistema ambiental.
         .tarjeta.tarjeta--azul.p-3
-          .row.justify-content-left.align-items-left      
-
+          .row.justify-content-between.align-items-left      
+            .col-lg-8
+              p.p-0 Arrastrar y soltar el término sobre la definición que corresponde.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
