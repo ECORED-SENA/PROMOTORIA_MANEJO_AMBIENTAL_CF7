@@ -169,12 +169,12 @@ export default {
         'su principal objetivo es cambiar las desigualdades en el mundo, erradicando la pobreza y mejorando las condiciones de vida de los seres humanos.',
     },
     {
-      termino: 'Programas ambientales:',
+      termino: 'Programas ambientales',
       significado:
         'son las acciones que se desarrollan para mitigar, prevenir y controlar los diferentes impactos ambientales causados por actividades negativas en un proyecto, obra o actividad de una organización. ',
     },
     {
-      termino: 'Procedimiento:',
+      termino: 'Procedimiento',
       significado:
         'es el conjunto de acciones que buscan un mismo resultado en el desarrollo de sus actividades.',
     },
